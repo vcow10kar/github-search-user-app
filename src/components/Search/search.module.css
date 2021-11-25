@@ -1,0 +1,28 @@
+.search {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 20px;
+    padding-top: 80px;
+}
+
+.searchForm {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 20px;
+}
+
+.searchForm input {
+    color: white;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 8px;
+    width: 100%;
+}
+
+.searchForm input:hover {
+    border: 2px solid white;
+    border-radius: 4px;
+}
